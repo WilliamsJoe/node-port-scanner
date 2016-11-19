@@ -1,0 +1,24 @@
+{
+  "name": "node-port-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamsJoe/node-port-scanner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamsJoe/node-port-scanner/issues"
+  },
+  "homepage": "https://github.com/WilliamsJoe/node-port-scanner#readme",
+  "dependencies": {
+    "node-codein": "^1.0.6"
+  }
+}
